@@ -14,7 +14,7 @@ export default function Faq() {
       </div>
       <div style={{ marginTop: '1.5rem' }}>
         <h3>¿La plataforma cobra comisión?</h3>
-        <p>No, Buscasofá es totalmente gratuito, de momento.</p>
+        <p>No, Buscasofa es totalmente gratuito, de momento.</p>
       </div>
     </div>
   );
