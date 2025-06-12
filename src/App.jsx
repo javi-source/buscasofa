@@ -78,7 +78,8 @@ function App() {
           <Route path="/mapa" element={<FuelMap stations={stations} />} />
           <Route path="/lista" element={<FuelTable stations={stations} />} />
           <Route path="/station/:id" element={<StationDetail stations={stations} user={user} />} />
-          <Route path="*" element={<NotFound />} /> {/* Pagina no encontrada */}
+          <Route path="*" element={<NotFound />} /> 
+          <Route path="/faq" element={<Faq />} />
         </Routes>
       )}
       <Footer />
