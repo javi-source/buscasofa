@@ -17,8 +17,8 @@ Then('debería ver el enlace "Mapa"', () => {
   cy.get('a.mapa').should('be.visible').and('contain', 'Mapa');
 });
 
-Then('debería ver el enlace "Quienes somos"', () => {
-  cy.get('a.about').should('be.visible').and('contain', 'Quienes somos');
+Then('debería ver el enlace "Acerca de"', () => {
+  cy.get('a.about').should('be.visible').and('contain', 'Acerca de');
 });
 
 Then('debería ver el enlace "Login"', () => {
