@@ -10,7 +10,7 @@ export default function Faq() {
       </div>
       <div style={{ marginTop: '1.5rem' }}>
         <h3>¿Cómo puedo contactar con la gasolinera?</h3>
-        <p>Llamándo a la hora de la siesta.</p>
+        <p>Llamando a la hora de la siesta.</p>
       </div>
       <div style={{ marginTop: '1.5rem' }}>
         <h3>¿La plataforma cobra comisión?</h3>
